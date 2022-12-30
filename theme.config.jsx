@@ -1,6 +1,13 @@
 /* eslint sort-keys: error */
 export default {
   darkMode: true,
+  readMore: 'read more...',
+  navs: [
+    {
+      url: 'https://twitter.com/Hpu7Jn',
+      name: 'Twitter'
+    }
+  ],
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <abbr
